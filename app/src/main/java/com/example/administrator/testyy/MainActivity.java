@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.print("dddddddddddddddd");
         System.out.print("sdssdss");
-        System.out.print("sdsdsffffffffffffffffffffffff");
+        System.out.print("sdsdsfffffffffffffffffffffffff");
     }
 }
